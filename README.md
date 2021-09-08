@@ -8,7 +8,7 @@
 final int BIG = 10_000_000;
 ```
 
-During the class, I have learned about different infinities
+During the class, I have learned about different infinities.
 
 ```java
 Integer.MAX_VALUE
