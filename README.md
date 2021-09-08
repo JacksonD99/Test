@@ -8,4 +8,5 @@
 final int BIG = 10_000_000;
 int numberThatShouldNotExist = 1_000;
 numberThatShouldNotExist  * 2;
+System.out.println( numberThatShouldNotExist);
 ```
